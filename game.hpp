@@ -9,7 +9,7 @@ public:
   void printRules() const {
     std::cout << "Welcome to Connect 4!\n";
     std::cout << "Rules:\n";
-    std::cout << "1. Players take turns to place their marker ('X' or 'O') in "
+    std::cout << "1. Players take turns to place their marker ('R' or 'Y') in "
                  "a column.\n";
     std::cout << "2. The first player to get four markers in a row, column, or "
                  "diagonal wins.\n";
