@@ -1,6 +1,6 @@
-#include <iostream>
+#include "game.hpp"
 
-int main ()
-{
-  std::cout << "Hello\n";
+int main() {
+  Game game;
+  game.start();
 }
